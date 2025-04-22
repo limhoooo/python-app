@@ -1,12 +1,14 @@
-site_name: 'python-app'
-site_description: 'Main documentation for the python-app'
-repo_url: https://github.com/ricardoandre97/python-app
+site_name: "python-app"
+site_description: "Main documentation for the python-app"
+repo_url: https://github.com/limhoooo/python-app
+# 브런치 명
 edit_uri: edit/main/docs
 
+# 사용할 html 플러그인?
 plugins:
   - techdocs-core
 
 # For sidebar navigation on https://backstage.io/, see `microsite/sidebars.json`
 nav:
   - Overview:
-      - Getting started: 'docs/index.md'
+      - Getting started: "docs/index.md"
