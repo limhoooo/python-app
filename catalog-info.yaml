@@ -10,3 +10,9 @@ spec:
   type: service
   owner: development
   lifecycle: experimental
+
+
+metadata:
+  annotations:
+    # instanceName and github-organization-project-name are optional. The value is a string and should be enclosed in double quotes ""
+    jenkins.io/job-full-name: "python-app"
