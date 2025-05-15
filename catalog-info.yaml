@@ -7,7 +7,6 @@ metadata:
     github.com/project-slug: limhoooo/python-app
     backstage.io/techdocs-ref: dir:.
     jenkins.io/job-full-name: python-app
-    jira.com/project-key: SCRUM
 spec:
   type: service
   owner: development
