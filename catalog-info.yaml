@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: python-app1
+  name: python-app
   description: Python app that displays time.
   annotations:
     github.com/project-slug: limhoooo/python-app
     backstage.io/techdocs-ref: dir:.
-    jenkins.io/job-full-name: python-app2
+    jenkins.io/job-full-name: python-app
     jira.com/project-key: SCRUM
 spec:
   type: service
