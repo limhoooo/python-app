@@ -8,7 +8,9 @@ metadata:
     github.com/project-slug: limhoooo/python-app
     backstage.io/techdocs-ref: dir:.
     jenkins.io/job-full-name: python-app
+    argocd/proxy-url: "/argocd/api"
+    argocd/app-name: test-ho
 spec:
   type: service
-  owner: development
+  owner: dlagh123@gmail.com
   lifecycle: experimental
