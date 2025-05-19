@@ -12,5 +12,5 @@ metadata:
     argocd/app-namespace: argocd
 spec:
   type: service
-  owner: dlagh123@gmail.com
+  owner: group:default/development
   lifecycle: experimental
